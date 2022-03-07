@@ -1,6 +1,6 @@
 # Running Jupyter Notebook on an AWS EC2 Server
 <p> <br/ >
- </p>
+ <p>
 ### 1- Login to AWS and launch an instance
 <img width="1234" alt="Ekran Resmi 2022-02-27 20 40 21" src="https://user-images.githubusercontent.com/91700155/155900685-8e6362b9-c33b-46e3-aa73-eb1f055f87f8.png">
 
