@@ -52,7 +52,7 @@ bash Anaconda3-2019.03-Linux-x86_64.sh
 <img width="914" alt="G5BbD" src="https://user-images.githubusercontent.com/91700155/157006451-985845d2-240e-4fcf-9b34-2d9a86944509.png">
 <img width="948" alt="CnL3E" src="https://user-images.githubusercontent.com/91700155/157006372-31f171c9-2a1a-4668-b242-6a0e1f7f1be0.png">
 
-##### -If you miss the second "yes" write to
+##### -If you miss the second "yes" write to:
 ```console
 source ~/anaconda3/bin/activate
 ```
@@ -60,7 +60,7 @@ source ~/anaconda3/bin/activate
 ```console
 nano .bashrc
 ```
-##### -Write into
+##### -Write into:
 ```console
 export PATH=/home/ubuntu/anaconda3/bin:$PATH
 ```
@@ -92,7 +92,7 @@ vim jupyter_notebook_config.py_
 ```
 <img width="928" alt="Ekran Resmi 2022-03-07 12 17 11" src="https://user-images.githubusercontent.com/91700155/157008315-0f848675-73c6-4f9b-b21c-4548e993b3c7.png">
 
-##### Write into
+##### Write into:
 ```console
 conf = get_config()
 
@@ -129,9 +129,6 @@ https://<your public dns>:8888/
 <img width="686" alt="ngTvy" src="https://user-images.githubusercontent.com/91700155/157010066-8d1f9c8e-5b8a-4ab7-a7f7-a9b6f7b83f91.png">
 
 #### Jupyter Notebook Web UI
-```console
-source ~/.profile
-```
 <img width="1411" alt="Ekran Resmi 2022-03-07 12 26 53" src="https://user-images.githubusercontent.com/91700155/157010483-a6ce616c-90f2-4786-ad66-4753fc091732.png">
 
 #### To stop jupyter notebook services
