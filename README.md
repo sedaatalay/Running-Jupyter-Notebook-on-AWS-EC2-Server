@@ -48,11 +48,11 @@ bash Anaconda3-2019.03-Linux-x86_64.sh
 ```
 <img width="927" alt="Ekran Resmi 2022-03-07 12 06 50" src="https://user-images.githubusercontent.com/91700155/157005760-9b910999-972b-4b67-8327-be92959655f5.png">
 
-##### To all "yes"
+##### -To all "yes"
 <img width="914" alt="G5BbD" src="https://user-images.githubusercontent.com/91700155/157006451-985845d2-240e-4fcf-9b34-2d9a86944509.png">
 <img width="948" alt="CnL3E" src="https://user-images.githubusercontent.com/91700155/157006372-31f171c9-2a1a-4668-b242-6a0e1f7f1be0.png">
 
-##### If you miss the second "yes" write to
+##### -If you miss the second "yes" write to
 ```console
 source ~/anaconda3/bin/activate
 ```
@@ -60,7 +60,7 @@ source ~/anaconda3/bin/activate
 ```console
 nano .bashrc
 ```
-##### Write into
+##### -Write into
 ```console
 export PATH=/home/ubuntu/anaconda3/bin:$PATH
 ```
@@ -79,10 +79,10 @@ ipython
 from IPython.lib import passwd
 passwd()
 ```
-##### Give a password 
+##### -Give a password 
 <img width="480" alt="Ekran Resmi 2022-03-07 12 46 54" src="https://user-images.githubusercontent.com/91700155/157007622-8e6386d6-c436-4310-811c-e3ea4b1a067f.png">
 
-##### Copy the "out[2]:" line 
+##### -Copy the "out[2]:" line 
 <img width="946" alt="1rgGn" src="https://user-images.githubusercontent.com/91700155/157007820-0ac48f7e-0060-4fcb-803b-cb1a609585f4.png">
 
 #### Jupyter Config File
@@ -110,14 +110,13 @@ sudo ufw allow 8888
 ```
 <img width="942" alt="Ekran Resmi 2022-03-07 12 19 08" src="https://user-images.githubusercontent.com/91700155/157008815-fee05b79-d026-43d6-b9fe-09902753fe91.png">
 
-
 #### Connecting to your EC2 Jupyter Server
 ```console
 jupyter notebook --ip 0.0.0.0 --port 8888
 ```
 <img width="946" alt="Ekran Resmi 2022-03-07 12 19 48" src="https://user-images.githubusercontent.com/91700155/157008908-8ed8415d-a9a3-4cde-920c-7c1b4f6a14b8.png">
 
-##### Copy the given token
+##### -Copy the given token
 <img width="921" alt="Aiedh" src="https://user-images.githubusercontent.com/91700155/157009819-22bbbd30-c002-4cbd-988a-04dfdfc8c76d.png">
 
 #### Access your server with the following URL
@@ -126,7 +125,7 @@ https://<your public dns>:8888/
 ```
 <img width="1407" alt="Ekran Resmi 2022-03-07 12 20 07" src="https://user-images.githubusercontent.com/91700155/157009243-2b3cab16-fb6c-446a-8da2-f6748935602f.png">
 
-##### Paste the copied token and create a new password if you want
+##### -Paste the copied token and create a new password if you want
 <img width="686" alt="ngTvy" src="https://user-images.githubusercontent.com/91700155/157010066-8d1f9c8e-5b8a-4ab7-a7f7-a9b6f7b83f91.png">
 
 #### Jupyter Notebook Web UI
@@ -141,5 +140,6 @@ jupyter notebook stop 8888
 ```
 
 
-
+<p> <br/ >
+ <p> <br/ >
 ## Seda Atalay
