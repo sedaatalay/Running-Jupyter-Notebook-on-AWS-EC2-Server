@@ -50,7 +50,7 @@ bash Anaconda3-2019.03-Linux-x86_64.sh
 
 ##### -To all "yes"
 <img width="914" alt="G5BbD" src="https://user-images.githubusercontent.com/91700155/157006451-985845d2-240e-4fcf-9b34-2d9a86944509.png">
-<img width="948" alt="CnL3E" src="https://user-images.githubusercontent.com/91700155/157006372-31f171c9-2a1a-4668-b242-6a0e1f7f1be0.png">
+<img width="948" alt="Ekran Resmi 2022-03-07 12 14 14" src="https://user-images.githubusercontent.com/91700155/157012088-70800d9f-7541-4308-82ea-8edf559b1462.png">
 
 ##### -If you miss the second "yes" write to:
 ```console
@@ -64,7 +64,7 @@ nano .bashrc
 ```console
 export PATH=/home/ubuntu/anaconda3/bin:$PATH
 ```
-<img width="945" alt="oSqWE" src="https://user-images.githubusercontent.com/91700155/157006870-3b498874-b857-4705-875a-1dcafe02b24b.png">
+<img width="945" alt="Ekran Resmi 2022-03-07 12 14 43" src="https://user-images.githubusercontent.com/91700155/157012117-9ae6e4be-e4f0-40c5-a733-998396075738.png">
 
 #### After saving path, you need to run
 ```console
@@ -83,7 +83,7 @@ passwd()
 <img width="480" alt="Ekran Resmi 2022-03-07 12 46 54" src="https://user-images.githubusercontent.com/91700155/157007622-8e6386d6-c436-4310-811c-e3ea4b1a067f.png">
 
 ##### -Copy the "out[2]:" line 
-<img width="946" alt="1rgGn" src="https://user-images.githubusercontent.com/91700155/157007820-0ac48f7e-0060-4fcb-803b-cb1a609585f4.png">
+<img width="946" alt="Ekran Resmi 2022-03-07 12 16 45" src="https://user-images.githubusercontent.com/91700155/157012189-b3632d73-3925-4dbf-badc-2920b69fd74f.png">
 
 #### Jupyter Config File
 ```console
@@ -117,7 +117,7 @@ jupyter notebook --ip 0.0.0.0 --port 8888
 <img width="946" alt="Ekran Resmi 2022-03-07 12 19 48" src="https://user-images.githubusercontent.com/91700155/157008908-8ed8415d-a9a3-4cde-920c-7c1b4f6a14b8.png">
 
 ##### -Copy the given token
-<img width="921" alt="Aiedh" src="https://user-images.githubusercontent.com/91700155/157009819-22bbbd30-c002-4cbd-988a-04dfdfc8c76d.png">
+<img width="921" alt="Z8G5B" src="https://user-images.githubusercontent.com/91700155/157012433-24514ed4-2328-4680-bda8-833acfecc183.png">
 
 #### Access your server with the following URL
 ```console
@@ -126,7 +126,7 @@ https://<your public dns>:8888/
 <img width="1407" alt="Ekran Resmi 2022-03-07 12 20 07" src="https://user-images.githubusercontent.com/91700155/157009243-2b3cab16-fb6c-446a-8da2-f6748935602f.png">
 
 ##### -Paste the copied token and create a new password if you want
-<img width="686" alt="ngTvy" src="https://user-images.githubusercontent.com/91700155/157010066-8d1f9c8e-5b8a-4ab7-a7f7-a9b6f7b83f91.png">
+<img width="686" alt="Ekran Resmi 2022-03-07 12 22 09" src="https://user-images.githubusercontent.com/91700155/157012388-7ae3b1e5-8a1b-4b7e-96dd-1b2ce5935bc1.png">
 
 #### Jupyter Notebook Web UI
 <img width="1411" alt="Ekran Resmi 2022-03-07 12 26 53" src="https://user-images.githubusercontent.com/91700155/157010483-a6ce616c-90f2-4786-ad66-4753fc091732.png">
