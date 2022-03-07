@@ -97,7 +97,7 @@ vim jupyter_notebook_config.py_
 conf = get_config()
 
 conf.NotebookApp.ip = '0.0.0.0'
-conf.NotebookApp.password = u'YOUR PASSWORD HASH'
+conf.NotebookApp.password = u'<Copy the out[2] line>'
 conf.NotebookApp.port = 8888
 conf.NotebookApp.allow_origin = '*'
 ```
