@@ -1,4 +1,4 @@
-# Running Jupyter Notebook on an AWS EC2 Server
+# Running Jupyter Notebook on AWS EC2 Server
 <p> <br/ >
  
 ### 1- Login to AWS and launch an instance
