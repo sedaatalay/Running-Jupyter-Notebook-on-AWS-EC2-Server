@@ -88,7 +88,7 @@ passwd()
 #### Jupyter Config File
 ```console
 cd .jupyter
-vim jupyter_notebook_config.py_
+nano jupyter_notebook_config.py_
 ```
 <img width="928" alt="Ekran Resmi 2022-03-07 12 17 11" src="https://user-images.githubusercontent.com/91700155/157008315-0f848675-73c6-4f9b-b21c-4548e993b3c7.png">
 
@@ -121,7 +121,7 @@ jupyter notebook --ip 0.0.0.0 --port 8888
 
 #### Access your server with the following URL
 ```console
-https://<your public dns>:8888/
+http://<your public dns>:8888/
 ```
 <img width="1407" alt="Ekran Resmi 2022-03-07 12 20 07" src="https://user-images.githubusercontent.com/91700155/157009243-2b3cab16-fb6c-446a-8da2-f6748935602f.png">
 
