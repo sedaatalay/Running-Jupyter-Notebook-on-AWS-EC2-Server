@@ -88,7 +88,7 @@ passwd()
 #### Jupyter Config File
 ```console
 cd .jupyter
-nano jupyter_notebook_config.py_
+nano jupyter_notebook_config.py_ or vim jupyter_notebook_config.py_ 
 ```
 <img width="928" alt="Ekran Resmi 2022-03-07 12 17 11" src="https://user-images.githubusercontent.com/91700155/157008315-0f848675-73c6-4f9b-b21c-4548e993b3c7.png">
 
