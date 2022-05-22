@@ -88,7 +88,7 @@ passwd()
 #### Jupyter Config File
 ```console
 cd .jupyter
-nano jupyter_notebook_config.py_ vim jupyter_notebook_config.py_ 
+nano jupyter_notebook_config.py_ 
 ```
 ##### or 
  
